@@ -1,0 +1,23 @@
+RESULT SHEET - Apex Institute of Technology
+==================================================
+Roll No      : 101
+Name         : Asha
+Marks        : 88.00, 92.00, 95.00
+Total        : 275.00
+Average      : 91.67
+Grade        : A
+--------------------------------------------------
+Roll No      : 102
+Name         : Ravi
+Marks        : 80.00, 78.00, 70.00
+Total        : 238.00
+Average      : 79.33
+Grade        : E
+Scholarship %: 50.00
+Sports Bonus : 10.00
+Scholarship Amount: 50000.00
+--------------------------------------------------
+Higher total between Asha and Ravi: Asha
+Class topper: Asha
+Total students created (studentCount): 2
+Records read: 8, accepted: 2, rejected: 6.

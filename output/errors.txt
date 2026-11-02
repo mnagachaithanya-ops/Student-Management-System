@@ -1,0 +1,9 @@
+=== Run at 2026-11-02 19:51:58 ===
+Line N/A | Record: input/students.txt | InvalidRecordException | Line 1: first line must be a valid record count N but was 'sample input'
+=== Run at 2026-11-02 19:53:56 ===
+Line 5 | Record: R,101,Dup,50,50,50 | DuplicateRollNoException | Duplicate roll number 101
+Line 6 | Record: R,103,Meena,105,60,70 | InvalidMarksException | Mark1 must be between 0 and 100 but was 105.0
+Line 7 | Record: S,104,Kiran,90,90,90,120,5,80000 | InvalidScholarshipException | Scholarship percent must be between 0 and 100 but was 120.0
+Line 8 | Record: R,105,Tarun,abc,60,70 | InvalidRecordException | Malformed record: For input string: "abc"
+Line 9 | Record: R,106,Neha,60 | InvalidRecordException | Type R requires 6 fields but found 4
+Line 10 | Record: Q,107,Zed,1,2,3 | InvalidRecordException | Unknown record type 'Q'
